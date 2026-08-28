@@ -96,6 +96,6 @@ Este projeto é distribuído sob a licença MIT. Os direitos e termos das bases 
 
 ## Referências
 
-[1]: https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv "Netflix TV Shows and Movies"
-[2]: https://www.kaggle.com/datasets/prasertk/netflix-daily-top-10-in-us "Netflix Daily Top 10"
-[3]: https://www.kaggle.com/datasets/akpmpr/updated-netflix-stock-price-all-time "Netflix Stock Price — All Time"
+[1] https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv "Netflix TV Shows and Movies"
+[2] https://www.kaggle.com/datasets/prasertk/netflix-daily-top-10-in-us "Netflix Daily Top 10"
+[3] https://www.kaggle.com/datasets/akpmpr/updated-netflix-stock-price-all-time "Netflix Stock Price — All Time"
