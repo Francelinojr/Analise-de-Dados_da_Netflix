@@ -1,0 +1,19 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Saídas locais
+outputs/
+*.html
